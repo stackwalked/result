@@ -1,4 +1,7 @@
 ## result
+
+NOTICE: I dont use this anymore, I might publish the better way at some point though
+
 (demo-only) wrapper + utility over std::expected, making it more ergonomic for real use.
 
 uploaded because I think it's cool and worth implementing
